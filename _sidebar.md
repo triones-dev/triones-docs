@@ -7,3 +7,7 @@
 
     * [云服务依赖](/jar-dependencies/cloud-integration.md)
     * [微信依赖](/jar-dependencies/weixin.md)
+
+* [NPM](/npm-dependencies/index.md)
+
+    * [antd-react扩展包](/npm-dependencies/antd-react-ext.md)
